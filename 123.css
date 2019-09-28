@@ -1,0 +1,126 @@
+a{
+color:black;
+}
+button{
+	background:blue; 
+	color:white; 
+	width:90px; 
+	height:30px; 
+	border:1px solid blue;
+	margin-left:-5px;
+}
+
+input{
+	width:500px;
+	height:30px;
+	border:1px solid blue;
+}
+
+.youshang a:hover{
+    color:blue;/* a 标签鼠标滑过的状态设置字体颜色变
+	蓝*/
+}
+
+.youshang{
+	text-align:right;
+}
+
+
+.youshang ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    display:inline;
+}
+
+.youshang li{
+    margin-right:8px;
+    display:inline;
+	font-size:13px;
+	font-weight:bold;
+}
+
+.xiazhong a{
+	color:gray;
+	font-size:12px;
+}
+.xiazhong a:hover{
+    color:gray;/* a 标签鼠标滑过的状态设置字体颜色变
+	灰*/
+}
+
+.xiazhong1 a{
+	color:gray;
+	font-size:12px;
+}
+.xiazhong1 a:hover{
+    color:gray;/* a 标签鼠标滑过的状态设置字体颜色变
+	灰*/
+}
+
+.xiazhong{
+	text-align:center;
+	color:gray;
+	font-size:12px;
+	margin-bottom:20px;
+}
+
+.xiazhong  ul{
+    list-style:none;
+    margin:0;
+    padding:0px;
+    display:inline;
+}
+
+.xiazhong li{
+    margin:10px;
+    display:inline;
+	font-size:13px;
+	
+}
+
+.xiazhong1{
+	text-align:center;
+	color:gray;
+	font-size:12px;
+}
+
+.xiazhong1  ul{
+    list-style:none;
+    margin:0;
+    padding:0px;
+    display:inline;
+}
+
+.xiazhong1 li{
+    margin:10px;
+    display:inline;
+	font-size:13px;
+	
+}
+
+.img1{
+    width:350px;
+    height:135px;
+}
+
+.img2{
+    width:115px;
+    height:115px;
+}
+
+#box{
+    text-align:center;/*水平居中设置-行内元素-水平居中显示*/
+	margin-top:80px;
+  }
+
+#box1{
+	margin-top:5px;
+}
+  
+#box2{
+	margin-top:2px;
+	margin-bottom:40px;
+	color:gray; 
+	font-size:14px;
+}
